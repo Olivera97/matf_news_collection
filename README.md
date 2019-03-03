@@ -1,4 +1,4 @@
-#MATF news gathering
+## MATF news gathering
 
 The idea behind the project is ease of access to news posted on various TA's sites, without having to check all of them manually.
 
@@ -7,7 +7,7 @@ Every time the program is run, only unread news are shown.
 
 Not all courses and TAs are supported - some of them can't be parsed properly, if you have a suggestion on which TA I should add, contact me.
 
-##Instructions
+### Instructions
 
 Run the program from the terminal or from an IDE (using the option to add command line arguments).
 
